@@ -1,7 +1,7 @@
 ## Welcome to My Blog
 
 This is a test page.
-[Image](C:\Users\qyr\Desktop\46.p
+
 ### who I am
 
 a interested guy.
