@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*公用*/
+.comWidth{width:1000px; margin-left:auto; margin-right:auto;}
+.leftArea{float:left;}
+.rightArea{float:right;}
+
+/*topBar*/
+.topBar{height:55px; background-color:#F1F1F1;line-height:55px;}
+.topBar a:hover{color:#020A9A;}
+
+/*logo*/
+.toplogo{wodth:55px;height:55px;}
+.toplogo{float:left;}
+
+/*导航*/
+.nav{font-family:"Microsoft YaHei", "微软雅黑"; line-height:55px; font-size:14px; padding-right:80px;width:550px;}
+.nav a{height:55px; padding:0 12px; color:#4A4A4A; font-weight:normal;}
+.nav{float:left;}
+.nav li{float:left;}
+
+/*search*/
+.search_box{width:94px; padding-right:12px;}
+.search_text{width:94px; height:20px; padding:0 3px;}
+.search_box{float:left;}
+
+/*button*/
+.search_btn{height:45px; padding:5px 3px;}
+.search_btn{float:left;}
+
+
+/*登录注册*/
+.Are{float:right;}
+
+/*分割线*/
+.transition{width:1960px; height:0.5px; background:#D8D8D8;}
+.transition{float:inherit;}
+
+/*banner部分*/
+.banner_bar{width:630px; height:280px; float:left; position:relative; overflow:hidden; padding-top:15px;}
+.imgBogx{width:1620px; height:280px; position:absolute; left:0; top:0;}
+.imgBogx li{float:left;}
+.imgBox img{width:630px; height:280px; display:block;}
+.imgNum{position:absolute; left:0; bottom:0; width:100%; text-align:center;}
+.imgNum a{width:206px; height:4px; overflow:hidden; background:#FFFFFF; display:inline-block;
+margin:0 1px;}
+.imgNum .active{background:#0062B3;}
+
+.testBar1{padding-top:15px;}
+.testbox1{width:280px; height:280px; background:#A64D4E;}
+.testbox1{float:right;}
+
+
+.testbox2{width:630px; height:30px; background:#B3B3B3;}
+.testbox2{float:left;}
+
+
+.testbox3{width:280px; height:700px; background:#99BAD1;}
+.testbox3{float:right;}
+
+
+.testbox4{width:630px; height:2000px; background:#99BAD1;}
+.testbox4{float:left;}
+
+
+.testbox5{width:280px; height:700px; background:#D9C5A0;}
+.testbox5{float:right;}
+
+
+
+.none{width:1960px; height:50px; background:#FFFFFFs;}
+.none{float:right;}
+
+/*分割线*/
+.footerxian{width:1960px; height:0.5px; background:#D8D8D8;}
+.footerxian{float:left;}
+/*底部栏*/
+.footerBar{width:1960px;height:55px; background-color:#F1F1F1;line-height:55px;font-size:15px; float:right; }
+.footerlogo{float:right;}
+.footerlogo a{font-weight:normal; color:#B7B7B7;}
+
